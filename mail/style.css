@@ -1,0 +1,117 @@
+/*************************************************
+    GENERAL STYLES
+*************************************************/
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #7c3aed;
+}
+
+
+/************************************************
+    CUSTOM PROPERTIES
+************************************************/
+
+ :root{
+ 
+    /* COLOR BACKGROUND*/
+   
+       --first-color:#006CFA;
+       --second-color:#00E165;
+   
+    /* COLOR TEXT */ 
+   
+       --first-text:#FFFFFF;
+       --second-text:white;
+       --third-text:#6A6A6A;
+
+   /*   HEIGHT   */
+       
+   
+
+    }
+   
+/************************************************
+    UTILITIES
+************************************************/
+ 
+/* 
+    LAYOUT 
+*/
+
+ 
+/************************************************
+    SITE SECTIONS
+************************************************/
+
+/*
+   HEADER
+*/
+
+
+
+/*
+   SECTION
+*/
+
+
+/*aside*/
+
+
+
+/************************************************
+    SOLUZIONE RESPONSIVE-MEDIA-QUERY MOBILE-FIRST
+************************************************/
+
+/* 
+    MOBILE BIG 
+*/
+
+@media screen and (min-width:576px){
+
+    /* COLUMNS */
+
+    
+
+}
+
+
+/* 
+  TABLET
+*/
+
+@media screen and (min-width:768px){
+     
+    /*  COLUMNS  */
+
+
+
+}
+
+/*
+  DESKTOP
+*/
+ 
+@media screen and (min-width:992px){
+
+    /*  COLUMNS  */
+
+
+
+}
+
+
+
+/*************************************************
+    SOLUZIONE RESPONSIVE-MEDIA-QUERY DESKTOP-FIRST
+*************************************************/
+
+
+
+
+/*************************************************
+    DEBUG
+*************************************************/
+    
+    
+    
